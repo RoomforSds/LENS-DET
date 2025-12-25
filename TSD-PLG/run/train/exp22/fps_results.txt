@@ -1,2 +1,0 @@
-Processed 75 images in 48.50 seconds.
-FPS: 1.55
