@@ -1,4 +1,2 @@
 # LENS-DET
-Dataset of transparent elements.
-This is a dataset of transparent components, providing a verification scenario for defect detection of transparent components.
-Only a small part of the data is provided in the folder, and the full data will be made public after the paper is received
+We have made our dataset and the related core code open source. As for how to train and use our model, we will make all the source code open-source after the paper is published.
