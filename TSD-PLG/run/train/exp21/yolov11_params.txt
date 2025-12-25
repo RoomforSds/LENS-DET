@@ -1,0 +1,1 @@
+Number of parameters in YOLOv11 model: 0

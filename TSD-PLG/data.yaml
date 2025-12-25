@@ -1,0 +1,12 @@
+#path: ../datasets/coco8 # dataset root dir
+train: C:\Users\SDS\Desktop\Scientific research\code\ultralytics-main\ultralytics\data\datasets\Lens-final\train\images # train images (relative to 'path') 4 images
+val: C:\Users\SDS\Desktop\Scientific research\code\ultralytics-main\ultralytics\data\datasets\Lens-final\valid\images # val images (relative to 'path') 4 images
+test: C:\Users\SDS\Desktop\Scientific research\code\ultralytics-main\ultralytics\data\datasets\Lens-final\test\images # test images (optional)
+
+nc: 3
+
+# Classes
+names:
+  0: scratch
+  1: fracture
+  2: spot
